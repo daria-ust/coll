@@ -1,0 +1,120 @@
+@font-face {
+    font-family: "raleway" ;
+    src: url("../font/Raleway.ttf");
+}
+.header{
+    background: #E1EDE6;
+    height: 100px;
+}
+.inc-house{
+    margin-left: 10px;
+    font-family: raleway;
+    font-size: 26px;
+    color: #598D66;
+    object-fit: contain;
+    font-weight: bold;
+}
+.cart{
+    width: 26px;
+    height: 26px;
+}
+.nav-text{
+    color:#2C2D35;
+    font-size: 26px;
+    font-family: raleway;
+}
+.header-text{
+    text-align: center;
+}
+
+.gr{
+    color:#598D66; 
+}
+.gr-size{
+    font-size: 26px;
+    font-family: raleway;
+}
+.right-text{
+    font-size: 40px;
+    font-family: raleway;
+}
+
+.rt{
+    color: #86928B;
+    font-family: raleway;
+}
+.rt-size{
+    font-size: 20px;
+    color:#2C2D35;
+    font-family: raleway;
+}
+.art-house{
+    font-family: raleway;
+    background: #E1EDE6;
+    object-fit: contain;
+}
+.ter{ 
+    color: #86928B;
+}
+.card{
+    margin: 10px auto;
+}
+.main{
+    width: 80vw;
+    margin: 50px auto;
+}
+.circle-btn{
+    border-radius: 25px!important;
+    margin-left:10px!important;
+}
+.gor{
+    font-family: raleway;
+    color: #F4F6F5;
+    font-size: 30px;
+}
+.ub{
+    background:url("../img/Rectangle.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    width: 90%;
+    height: auto;
+    aspect-ratio: 1.33467/1;
+}
+.mor{
+    margin: 10px 100px auto !important;
+}
+ .star-size{
+    width: 90px;
+    height: 90px;
+ }
+ .star{
+    margin-left: 70px;
+ }
+ .coll{
+    margin-top: 80px!important;
+ }
+ .cont{
+    position: relative;
+}
+.pic1{
+    position: relative;
+    margin:100px 0 30px 0;
+}
+.pic2{
+    position: absolute;
+    left: 40px;
+    top:-67px;
+    z-index:1;
+ }
+ .header2{
+    background: #E1EDE6;
+    height: auto;
+}
+tr{
+    font-size: 20px;
+    font-family: raleway;
+}
+.tr3{
+    font-size: 10px;
+    font-family: raleway;
+}
