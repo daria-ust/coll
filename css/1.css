@@ -4,7 +4,7 @@
 }
 .header{
     background: #E1EDE6;
-    height: 100px;
+    height: 200px;
 }
 .inc-house{
     margin-left: 10px;
@@ -83,10 +83,6 @@
 .mor{
     margin: 10px 100px auto !important;
 }
- .star-size{
-    width: 90px;
-    height: 90px;
- }
  .star{
     margin-left: 70px;
  }
