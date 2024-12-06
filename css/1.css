@@ -70,7 +70,7 @@
 .gor{
     font-family: raleway;
     color: #F4F6F5;
-    font-size: 30px;
+    font-size: 22px;
 }
 .ub{
     background:url("../img/Rectangle.png");
@@ -105,8 +105,9 @@
  .header2{
     background: #E1EDE6;
     height: auto;
+    width: auto;
 }
-tr{
+.tr{
     font-size: 20px;
     font-family: raleway;
 }
